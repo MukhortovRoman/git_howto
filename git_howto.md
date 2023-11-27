@@ -28,6 +28,11 @@ git log --online
 git checkout
 ```
 
+*Проверка статуса репозитория*
+```
+git status
+```
+
 
 
 
