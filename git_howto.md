@@ -43,7 +43,11 @@ git show 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
 git diff
 ```
 
+*Переименование файлов*
 
+```
+git mv dir1/somefile.js dir2
+```
 
 
 
