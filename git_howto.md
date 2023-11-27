@@ -33,6 +33,16 @@ git checkout
 git status
 ```
 
+*Просмотр заданного коммита*
+```
+git show 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
+```
+
+*Просмотр изменений до коммита*
+```
+git diff
+```
+
 
 
 
